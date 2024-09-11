@@ -12,7 +12,7 @@
     "lint": "bin/lint"
   },
   "devDependencies": {
-    "node-static": "0.6.0",
+    "node-static": "0.7.11",
     "phantomjs-prebuilt": "^2.1.12",
     "blint": ">=0.1.1"
   },
